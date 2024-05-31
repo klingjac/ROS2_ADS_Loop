@@ -8,6 +8,7 @@ setup.py
 ../build/ros_ads_loop/ros_ads_loop.egg-info/requires.txt
 ../build/ros_ads_loop/ros_ads_loop.egg-info/top_level.txt
 ../build/ros_ads_loop/ros_ads_loop.egg-info/zip-safe
+models/VirtualSatv8.stl
 resource/ros_ads_loop
 ros_ads_loop/AD7994.py
 ros_ads_loop/ADS_ROS_CLASS.py
@@ -23,6 +24,7 @@ ros_ads_loop/icm20948_lib.py
 ros_ads_loop/models.py
 ros_ads_loop/pni_rm3100.py
 ros_ads_loop/rtc.py
+ros_ads_loop/rviz_publisher.py
 ros_ads_loop/sun_vect.py
 test/test_copyright.py
 test/test_flake8.py

@@ -10,6 +10,7 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
+        ('share/' + package_name + '/models', ['models/VirtualSatv8.stl']),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
@@ -20,7 +21,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'ads_suite = ros_ads_loop.ADS_ROS_CLASS:main'
+            'ads_suite = ros_ads_loop.ADS_ROS_CLASS:main',
+            'rviz_publisher = ros_ads_loop.rviz_publisher:main',
         ],
     },
 )
