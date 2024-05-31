@@ -14,13 +14,13 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='adcspi',
-    maintainer_email='adcspi@todo.todo',
+    maintainer_email='klingjac@umich.edu',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'estimation_node = rotation_visualization.visualization_node:main'
+            'ads_suite = ros_ads_loop.ADS_ROS_CLASS:main'
         ],
     },
 )

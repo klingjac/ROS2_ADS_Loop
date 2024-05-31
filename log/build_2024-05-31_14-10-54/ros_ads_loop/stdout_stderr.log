@@ -1,0 +1,19 @@
+running egg_info
+writing ../build/ros_ads_loop/ros_ads_loop.egg-info/PKG-INFO
+writing dependency_links to ../build/ros_ads_loop/ros_ads_loop.egg-info/dependency_links.txt
+writing entry points to ../build/ros_ads_loop/ros_ads_loop.egg-info/entry_points.txt
+writing requirements to ../build/ros_ads_loop/ros_ads_loop.egg-info/requires.txt
+writing top-level names to ../build/ros_ads_loop/ros_ads_loop.egg-info/top_level.txt
+reading manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/ros_ads_loop/ros_ads_loop.egg-info to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info
+running install_scripts
+Installing estimation_node script to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/ros_ads_loop
+writing list of installed files to '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log'

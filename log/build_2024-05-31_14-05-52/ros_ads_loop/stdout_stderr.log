@@ -1,0 +1,67 @@
+running egg_info
+creating ../build/ros_ads_loop/ros_ads_loop.egg-info
+writing ../build/ros_ads_loop/ros_ads_loop.egg-info/PKG-INFO
+writing dependency_links to ../build/ros_ads_loop/ros_ads_loop.egg-info/dependency_links.txt
+writing entry points to ../build/ros_ads_loop/ros_ads_loop.egg-info/entry_points.txt
+writing requirements to ../build/ros_ads_loop/ros_ads_loop.egg-info/requires.txt
+writing top-level names to ../build/ros_ads_loop/ros_ads_loop.egg-info/top_level.txt
+writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+reading manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build
+creating /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib
+creating /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/models.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/rtc.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/TRIAD_C.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/ADS_ROS_CLASS.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/EKFQ.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/sun_vect.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/Kalman3D.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/eig_helper.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/__init__.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/ADS_class.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+copying ros_ads_loop/QUEST.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+running install
+running install_lib
+creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/models.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/rtc.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/TRIAD_C.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/ADS_ROS_CLASS.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/EKFQ.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/sun_vect.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/Kalman3D.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/eig_helper.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/__init__.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/ADS_class.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/QUEST.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/models.py to models.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/rtc.py to rtc.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/TRIAD_C.py to TRIAD_C.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/ADS_ROS_CLASS.py to ADS_ROS_CLASS.cpython-310.pyc
+  File "/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/ADS_ROS_CLASS.py", line 36
+    def super().__init__(self):
+               ^
+SyntaxError: expected ':'
+
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/EKFQ.py to EKFQ.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/sun_vect.py to sun_vect.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/Kalman3D.py to Kalman3D.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/eig_helper.py to eig_helper.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/ADS_class.py to ADS_class.cpython-310.pyc
+byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/QUEST.py to QUEST.cpython-310.pyc
+running install_data
+creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index
+creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index/resource_index
+creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index/resource_index/packages
+copying resource/ros_ads_loop -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index/resource_index/packages
+copying package.xml -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ros_ads_loop
+running install_egg_info
+Copying ../build/ros_ads_loop/ros_ads_loop.egg-info to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info
+running install_scripts
+Installing estimation_node script to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/ros_ads_loop
+writing list of installed files to '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log'

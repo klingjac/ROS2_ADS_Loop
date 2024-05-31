@@ -1,0 +1,6 @@
+source;share/ros_ads_loop/hook/pythonpath.ps1
+source;share/ros_ads_loop/hook/pythonpath.dsv
+source;share/ros_ads_loop/hook/pythonpath.sh
+source;share/ros_ads_loop/hook/ament_prefix_path.ps1
+source;share/ros_ads_loop/hook/ament_prefix_path.dsv
+source;share/ros_ads_loop/hook/ament_prefix_path.sh

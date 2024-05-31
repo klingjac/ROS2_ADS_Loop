@@ -1,0 +1,3004 @@
+Starting ADS Log
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
+Failed to get GPS reading
+Failed to compute Sun Vector
+Failed Static Estimation
