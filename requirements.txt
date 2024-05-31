@@ -1,0 +1,8 @@
+ahrs
+ephem
+numpy
+pymap3d
+scipy
+smbus
+smbus2
+icm20948
