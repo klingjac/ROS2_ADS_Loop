@@ -7,13 +7,13 @@ def compute_vect(I1, I2, I3, I21, I22, I23):
     c30 = np.cos(np.radians(30))
 
     # Triclops 1: +Z aligned, +X aligned diode 2
-    n1 = np.array([-s30*s10, -c30*s10, c10])
+    n1 = np.array([-s30*s10, c30*s10, c10])
     n2 = np.array([s10, 0, c10])
-    n3 = np.array([-s30*s10, c30*s10, c10])
+    n3 = np.array([-s30*s10, -c30*s10, c10])
     # Triclops 2: -Z aligned, -X aligned diode 2
-    n4 = np.array([s30*s10, c30*s10, -c10])
-    n5 = np.array([-s10, 0, -c10])
-    n6 = np.array([s30*s10, -c30*s10, -c10])
+    n4 = np.array([s30*s10, c30*s10, c10])
+    n5 = np.array([-s10, 0, c10])
+    n6 = np.array([s30*s10, -c30*s10, c10])
 
     H = np.vstack((n1,n2,n3,n4,n5,n6))
 
@@ -27,5 +27,6 @@ def compute_vect(I1, I2, I3, I21, I22, I23):
     S = np.linalg.inv(H.T @ np.linalg.inv(R) @ H) @ H.T @ np.linalg.inv(R) @ y
 
     S = S / np.linalg.norm(S)
+    print(f"1: {I21}, 2: {I22}, 3: {I23}")
+    print(f"vect: {S}")
     return S
-    #print(S)

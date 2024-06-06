@@ -1,0 +1,101 @@
+[0.000000] (-) TimerEvent: {}
+[0.001214] (my-test-package) JobQueued: {'identifier': 'my-test-package', 'dependencies': OrderedDict()}
+[0.002344] (ros_ads_loop) JobQueued: {'identifier': 'ros_ads_loop', 'dependencies': OrderedDict()}
+[0.002937] (my-test-package) JobStarted: {'identifier': 'my-test-package'}
+[0.038409] (ros_ads_loop) JobStarted: {'identifier': 'ros_ads_loop'}
+[0.098991] (-) TimerEvent: {}
+[0.199751] (-) TimerEvent: {}
+[0.300715] (-) TimerEvent: {}
+[0.401692] (-) TimerEvent: {}
+[0.502620] (-) TimerEvent: {}
+[0.603453] (-) TimerEvent: {}
+[0.704356] (-) TimerEvent: {}
+[0.805175] (-) TimerEvent: {}
+[0.906019] (-) TimerEvent: {}
+[1.006937] (-) TimerEvent: {}
+[1.107880] (-) TimerEvent: {}
+[1.209109] (-) TimerEvent: {}
+[1.310089] (-) TimerEvent: {}
+[1.411147] (-) TimerEvent: {}
+[1.512207] (-) TimerEvent: {}
+[1.613546] (-) TimerEvent: {}
+[1.714516] (-) TimerEvent: {}
+[1.815362] (-) TimerEvent: {}
+[1.916239] (-) TimerEvent: {}
+[2.017172] (-) TimerEvent: {}
+[2.118172] (-) TimerEvent: {}
+[2.219132] (-) TimerEvent: {}
+[2.319995] (-) TimerEvent: {}
+[2.421067] (-) TimerEvent: {}
+[2.522155] (-) TimerEvent: {}
+[2.623346] (-) TimerEvent: {}
+[2.724900] (-) TimerEvent: {}
+[2.742987] (my-test-package) Command: {'cmd': ['/home/adcspi/740_ADS/ADS/env/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../../../../../../../build/my-test-package', 'build', '--build-base', '/home/adcspi/740_ADS/ADS/build/my-test-package/build', 'install', '--record', '/home/adcspi/740_ADS/ADS/build/my-test-package/install.log', '--single-version-externally-managed'], 'cwd': '/home/adcspi/740_ADS/ADS/env/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'adcspi', 'SSH_CLIENT': '192.168.0.117 56448 22', 'XDG_SESSION_TYPE': 'tty', 'GIT_ASKPASS': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/extensions/git/dist/askpass.sh', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'BROWSER': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/bin/helpers/browser.sh', 'MOTD_SHOWN': 'pam', 'HOME': '/home/adcspi', 'TERM_PROGRAM_VERSION': '1.89.1', 'VSCODE_IPC_HOOK_CLI': '/run/user/1000/vscode-ipc-a2c6f1a1-d452-4451-b521-6199d5673b27.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/extensions/git/dist/askpass-main.js', 'PS1': '\\[\x1b]633;A\x07\\](env) \\[\x1b]633;A\x07\\]\\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ \\[\x1b]633;B\x07\\]\\[\x1b]633;B\x07\\]', 'VSCODE_GIT_ASKPASS_NODE': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/node', 'SSL_CERT_FILE': '/usr/lib/ssl/certs/ca-certificates.crt', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'COLCON_PREFIX_PATH': '/home/adcspi/740_ADS/ADS/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'adcspi', '_': '/home/adcspi/740_ADS/ADS/env/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/adcspi/740_ADS/ADS/env/bin:/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/bin/remote-cli:/home/adcspi/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'SSL_CERT_DIR': '/usr/lib/ssl/certs', 'LANG': 'C.UTF-8', 'VIRTUAL_ENV_PROMPT': '(env)', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-9e9f6c0062.sock', 'TERM_PROGRAM': 'vscode', 'AMENT_PREFIX_PATH': '/home/adcspi/740_ADS/ADS/install/ros_ads_loop:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VIRTUAL_ENV': '/home/adcspi/740_ADS/ADS/env', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/adcspi/740_ADS/ADS/build/my-test-package', 'SSH_CONNECTION': '192.168.0.117 56448 192.168.0.241 22', 'PYTHONPATH': '/home/adcspi/740_ADS/ADS/build/my-test-package/prefix_override:/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[2.825094] (-) TimerEvent: {}
+[2.927339] (-) TimerEvent: {}
+[3.028401] (-) TimerEvent: {}
+[3.129267] (-) TimerEvent: {}
+[3.230110] (-) TimerEvent: {}
+[3.331026] (-) TimerEvent: {}
+[3.431943] (-) TimerEvent: {}
+[3.533724] (-) TimerEvent: {}
+[3.634636] (-) TimerEvent: {}
+[3.735491] (-) TimerEvent: {}
+[3.836453] (-) TimerEvent: {}
+[3.887476] (my-test-package) StdoutLine: {'line': b'running egg_info\n'}
+[3.891170] (my-test-package) StdoutLine: {'line': b'writing ../../../../../../../../build/my-test-package/my_test_package.egg-info/PKG-INFO\n'}
+[3.893541] (my-test-package) StdoutLine: {'line': b'writing dependency_links to ../../../../../../../../build/my-test-package/my_test_package.egg-info/dependency_links.txt\n'}
+[3.894940] (my-test-package) StdoutLine: {'line': b'writing top-level names to ../../../../../../../../build/my-test-package/my_test_package.egg-info/top_level.txt\n'}
+[3.898520] (my-test-package) StdoutLine: {'line': b"reading manifest file '../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'\n"}
+[3.902919] (my-test-package) StdoutLine: {'line': b"writing manifest file '../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'\n"}
+[3.904090] (my-test-package) StdoutLine: {'line': b'running build\n'}
+[3.905228] (my-test-package) StdoutLine: {'line': b'running install\n'}
+[3.906969] (my-test-package) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.918304] (my-test-package) StdoutLine: {'line': b"removing '/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages/my_test_package-1.0-py3.10.egg-info' (and everything under it)\n"}
+[3.920894] (my-test-package) StdoutLine: {'line': b'Copying ../../../../../../../../build/my-test-package/my_test_package.egg-info to /home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages/my_test_package-1.0-py3.10.egg-info\n'}
+[3.928716] (my-test-package) StdoutLine: {'line': b'running install_scripts\n'}
+[3.936718] (-) TimerEvent: {}
+[4.037800] (-) TimerEvent: {}
+[4.054713] (my-test-package) StdoutLine: {'line': b"writing list of installed files to '/home/adcspi/740_ADS/ADS/build/my-test-package/install.log'\n"}
+[4.138145] (-) TimerEvent: {}
+[4.158315] (ros_ads_loop) Command: {'cmd': ['/home/adcspi/740_ADS/ADS/env/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/ros_ads_loop', 'build', '--build-base', '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/build', 'install', '--record', '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/adcspi/740_ADS/ADS/ros_ads_loop', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'adcspi', 'SSH_CLIENT': '192.168.0.117 56448 22', 'XDG_SESSION_TYPE': 'tty', 'GIT_ASKPASS': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/extensions/git/dist/askpass.sh', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'BROWSER': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/bin/helpers/browser.sh', 'MOTD_SHOWN': 'pam', 'HOME': '/home/adcspi', 'TERM_PROGRAM_VERSION': '1.89.1', 'VSCODE_IPC_HOOK_CLI': '/run/user/1000/vscode-ipc-a2c6f1a1-d452-4451-b521-6199d5673b27.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/extensions/git/dist/askpass-main.js', 'PS1': '\\[\x1b]633;A\x07\\](env) \\[\x1b]633;A\x07\\]\\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ \\[\x1b]633;B\x07\\]\\[\x1b]633;B\x07\\]', 'VSCODE_GIT_ASKPASS_NODE': '/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/node', 'SSL_CERT_FILE': '/usr/lib/ssl/certs/ca-certificates.crt', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'COLCON_PREFIX_PATH': '/home/adcspi/740_ADS/ADS/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'adcspi', '_': '/home/adcspi/740_ADS/ADS/env/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/adcspi/740_ADS/ADS/env/bin:/home/adcspi/.vscode-server/cli/servers/Stable-dc96b837cf6bb4af9cd736aa3af08cf8279f7685/server/bin/remote-cli:/home/adcspi/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'SSL_CERT_DIR': '/usr/lib/ssl/certs', 'LANG': 'C.UTF-8', 'VIRTUAL_ENV_PROMPT': '(env)', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-9e9f6c0062.sock', 'TERM_PROGRAM': 'vscode', 'AMENT_PREFIX_PATH': '/home/adcspi/740_ADS/ADS/install/ros_ads_loop:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VIRTUAL_ENV': '/home/adcspi/740_ADS/ADS/env', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/home/adcspi/740_ADS/ADS/build/ros_ads_loop', 'SSH_CONNECTION': '192.168.0.117 56448 192.168.0.241 22', 'PYTHONPATH': '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/prefix_override:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[4.223123] (my-test-package) CommandEnded: {'returncode': 0}
+[4.239417] (-) TimerEvent: {}
+[4.286454] (my-test-package) JobEnded: {'identifier': 'my-test-package', 'rc': 0}
+[4.339726] (-) TimerEvent: {}
+[4.441269] (-) TimerEvent: {}
+[4.543120] (-) TimerEvent: {}
+[4.643981] (-) TimerEvent: {}
+[4.744933] (-) TimerEvent: {}
+[4.845733] (-) TimerEvent: {}
+[4.946533] (-) TimerEvent: {}
+[5.047839] (-) TimerEvent: {}
+[5.148619] (-) TimerEvent: {}
+[5.185943] (ros_ads_loop) StdoutLine: {'line': b'running egg_info\n'}
+[5.190135] (ros_ads_loop) StdoutLine: {'line': b'writing ../build/ros_ads_loop/ros_ads_loop.egg-info/PKG-INFO\n'}
+[5.191526] (ros_ads_loop) StdoutLine: {'line': b'writing dependency_links to ../build/ros_ads_loop/ros_ads_loop.egg-info/dependency_links.txt\n'}
+[5.192938] (ros_ads_loop) StdoutLine: {'line': b'writing entry points to ../build/ros_ads_loop/ros_ads_loop.egg-info/entry_points.txt\n'}
+[5.193847] (ros_ads_loop) StdoutLine: {'line': b'writing requirements to ../build/ros_ads_loop/ros_ads_loop.egg-info/requires.txt\n'}
+[5.194734] (ros_ads_loop) StdoutLine: {'line': b'writing top-level names to ../build/ros_ads_loop/ros_ads_loop.egg-info/top_level.txt\n'}
+[5.203726] (ros_ads_loop) StdoutLine: {'line': b"reading manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'\n"}
+[5.209141] (ros_ads_loop) StdoutLine: {'line': b"writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'\n"}
+[5.210011] (ros_ads_loop) StdoutLine: {'line': b'running build\n'}
+[5.210510] (ros_ads_loop) StdoutLine: {'line': b'running build_py\n'}
+[5.213804] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/sun_vect.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[5.218243] (ros_ads_loop) StdoutLine: {'line': b'running install\n'}
+[5.219839] (ros_ads_loop) StdoutLine: {'line': b'running install_lib\n'}
+[5.225793] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/sun_vect.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[5.232986] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/sun_vect.py to sun_vect.cpython-310.pyc\n'}
+[5.237425] (ros_ads_loop) StdoutLine: {'line': b'running install_data\n'}
+[5.238289] (ros_ads_loop) StdoutLine: {'line': b'running install_egg_info\n'}
+[5.245764] (ros_ads_loop) StdoutLine: {'line': b"removing '/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[5.247846] (ros_ads_loop) StdoutLine: {'line': b'Copying ../build/ros_ads_loop/ros_ads_loop.egg-info to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info\n'}
+[5.248740] (-) TimerEvent: {}
+[5.256101] (ros_ads_loop) StdoutLine: {'line': b'running install_scripts\n'}
+[5.340787] (ros_ads_loop) StdoutLine: {'line': b'Installing ads_suite script to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/ros_ads_loop\n'}
+[5.344119] (ros_ads_loop) StdoutLine: {'line': b"writing list of installed files to '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log'\n"}
+[5.349240] (-) TimerEvent: {}
+[5.450767] (-) TimerEvent: {}
+[5.474131] (ros_ads_loop) CommandEnded: {'returncode': 0}
+[5.510907] (ros_ads_loop) JobEnded: {'identifier': 'ros_ads_loop', 'rc': 0}
+[5.514529] (-) EventReactorShutdown: {}

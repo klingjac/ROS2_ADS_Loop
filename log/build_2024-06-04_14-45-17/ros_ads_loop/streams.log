@@ -1,0 +1,27 @@
+[3.883s] Invoking command in '/home/adcspi/740_ADS/ADS/ros_ads_loop': PS1=(env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/adcspi/740_ADS/ADS/build/ros_ads_loop/prefix_override:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(env) /home/adcspi/740_ADS/ADS/env/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/ros_ads_loop build --build-base /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build install --record /home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log --single-version-externally-managed install_data
+[4.883s] running egg_info
+[4.886s] writing ../build/ros_ads_loop/ros_ads_loop.egg-info/PKG-INFO
+[4.888s] writing dependency_links to ../build/ros_ads_loop/ros_ads_loop.egg-info/dependency_links.txt
+[4.890s] writing entry points to ../build/ros_ads_loop/ros_ads_loop.egg-info/entry_points.txt
+[4.891s] writing requirements to ../build/ros_ads_loop/ros_ads_loop.egg-info/requires.txt
+[4.891s] writing top-level names to ../build/ros_ads_loop/ros_ads_loop.egg-info/top_level.txt
+[4.901s] reading manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+[4.907s] writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+[4.908s] running build
+[4.908s] running build_py
+[4.917s] running install
+[4.919s] running install_lib
+[4.931s] byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/arm_control.py to arm_control.cpython-310.pyc
+[4.932s]   File "/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/arm_control.py", line 1
+[4.933s]     class Arm_Controler()
+[4.933s]                          ^
+[4.933s] SyntaxError: expected ':'
+[4.934s] 
+[4.936s] running install_data
+[4.938s] running install_egg_info
+[4.945s] removing '/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info' (and everything under it)
+[4.947s] Copying ../build/ros_ads_loop/ros_ads_loop.egg-info to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info
+[4.955s] running install_scripts
+[5.039s] Installing ads_suite script to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/ros_ads_loop
+[5.043s] writing list of installed files to '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log'
+[5.167s] Invoked command in '/home/adcspi/740_ADS/ADS/ros_ads_loop' returned '0': PS1=(env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/adcspi/740_ADS/ADS/build/ros_ads_loop/prefix_override:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(env) /home/adcspi/740_ADS/ADS/env/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/ros_ads_loop build --build-base /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build install --record /home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log --single-version-externally-managed install_data
