@@ -434,10 +434,10 @@ class ADS_Suite(Node):
 
         # Publish dynamic quaternion
         dynamic_quaternion = Quaternion()
-        dynamic_quaternion.x = float(self.dynamic_q[0])
-        dynamic_quaternion.y = float(self.dynamic_q[1])
-        dynamic_quaternion.z = float(self.dynamic_q[2])
-        dynamic_quaternion.w = float(self.dynamic_q[3])
+        dynamic_quaternion.w = float(self.dynamic_q[0])
+        dynamic_quaternion.x = float(self.dynamic_q[1])
+        dynamic_quaternion.y = float(self.dynamic_q[2])
+        dynamic_quaternion.z = float(self.dynamic_q[3])
         self.publisher_.publish(dynamic_quaternion)
 
 def main(args=None):
