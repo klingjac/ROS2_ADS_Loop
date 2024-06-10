@@ -1,0 +1,158 @@
+[0.000000] (-) TimerEvent: {}
+[0.001905] (my-test-package) JobQueued: {'identifier': 'my-test-package', 'dependencies': OrderedDict()}
+[0.002466] (ros_ads_loop) JobQueued: {'identifier': 'ros_ads_loop', 'dependencies': OrderedDict()}
+[0.002720] (my-test-package) JobStarted: {'identifier': 'my-test-package'}
+[0.033672] (ros_ads_loop) JobStarted: {'identifier': 'ros_ads_loop'}
+[0.099069] (-) TimerEvent: {}
+[0.199866] (-) TimerEvent: {}
+[0.300719] (-) TimerEvent: {}
+[0.401605] (-) TimerEvent: {}
+[0.502419] (-) TimerEvent: {}
+[0.603186] (-) TimerEvent: {}
+[0.703935] (-) TimerEvent: {}
+[0.804658] (-) TimerEvent: {}
+[0.905543] (-) TimerEvent: {}
+[1.006578] (-) TimerEvent: {}
+[1.108118] (-) TimerEvent: {}
+[1.209264] (-) TimerEvent: {}
+[1.310192] (-) TimerEvent: {}
+[1.411311] (-) TimerEvent: {}
+[1.512397] (-) TimerEvent: {}
+[1.614026] (-) TimerEvent: {}
+[1.714857] (-) TimerEvent: {}
+[1.815798] (-) TimerEvent: {}
+[1.916644] (-) TimerEvent: {}
+[2.017689] (-) TimerEvent: {}
+[2.118759] (-) TimerEvent: {}
+[2.220061] (-) TimerEvent: {}
+[2.321292] (-) TimerEvent: {}
+[2.422838] (-) TimerEvent: {}
+[2.524004] (-) TimerEvent: {}
+[2.600864] (my-test-package) Command: {'cmd': ['/home/adcspi/740_ADS/ADS/env/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../../../../../../../build/my-test-package', 'build', '--build-base', '/home/adcspi/740_ADS/ADS/build/my-test-package/build', 'install', '--record', '/home/adcspi/740_ADS/ADS/build/my-test-package/install.log', '--single-version-externally-managed'], 'cwd': '/home/adcspi/740_ADS/ADS/env/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'adcspi', 'SSH_CLIENT': '192.168.0.113 59328 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/adcspi', 'OLDPWD': '/home/adcspi/740_ADS/ADS/install', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'PS1': '(env) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'ROS_DISTRO': 'humble', 'LOGNAME': 'adcspi', '_': '/home/adcspi/740_ADS/ADS/env/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/adcspi/740_ADS/ADS/env/bin:/home/adcspi/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'C.UTF-8', 'VIRTUAL_ENV_PROMPT': '(env)', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VIRTUAL_ENV': '/home/adcspi/740_ADS/ADS/env', 'PWD': '/home/adcspi/740_ADS/ADS/build/my-test-package', 'SSH_CONNECTION': '192.168.0.113 59328 192.168.0.241 22', 'PYTHONPATH': '/home/adcspi/740_ADS/ADS/build/my-test-package/prefix_override:/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[2.624081] (-) TimerEvent: {}
+[2.725592] (-) TimerEvent: {}
+[2.826444] (-) TimerEvent: {}
+[2.936271] (-) TimerEvent: {}
+[3.037179] (-) TimerEvent: {}
+[3.138037] (-) TimerEvent: {}
+[3.239049] (-) TimerEvent: {}
+[3.339982] (-) TimerEvent: {}
+[3.440973] (-) TimerEvent: {}
+[3.543040] (-) TimerEvent: {}
+[3.645289] (-) TimerEvent: {}
+[3.680540] (my-test-package) StdoutLine: {'line': b'running egg_info\n'}
+[3.683342] (my-test-package) StdoutLine: {'line': b'creating ../../../../../../../../build/my-test-package/my_test_package.egg-info\n'}
+[3.684203] (my-test-package) StdoutLine: {'line': b'writing ../../../../../../../../build/my-test-package/my_test_package.egg-info/PKG-INFO\n'}
+[3.685720] (my-test-package) StdoutLine: {'line': b'writing dependency_links to ../../../../../../../../build/my-test-package/my_test_package.egg-info/dependency_links.txt\n'}
+[3.686980] (my-test-package) StdoutLine: {'line': b'writing top-level names to ../../../../../../../../build/my-test-package/my_test_package.egg-info/top_level.txt\n'}
+[3.687955] (my-test-package) StdoutLine: {'line': b"writing manifest file '../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'\n"}
+[3.690780] (my-test-package) StdoutLine: {'line': b"reading manifest file '../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'\n"}
+[3.694468] (my-test-package) StdoutLine: {'line': b"writing manifest file '../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'\n"}
+[3.695377] (my-test-package) StdoutLine: {'line': b'running build\n'}
+[3.696074] (my-test-package) StdoutLine: {'line': b'running install\n'}
+[3.696983] (my-test-package) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.708497] (my-test-package) StdoutLine: {'line': b'Copying ../../../../../../../../build/my-test-package/my_test_package.egg-info to /home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages/my_test_package-1.0-py3.10.egg-info\n'}
+[3.714538] (my-test-package) StdoutLine: {'line': b'running install_scripts\n'}
+[3.745572] (-) TimerEvent: {}
+[3.847071] (-) TimerEvent: {}
+[3.850100] (my-test-package) StdoutLine: {'line': b"writing list of installed files to '/home/adcspi/740_ADS/ADS/build/my-test-package/install.log'\n"}
+[3.907483] (ros_ads_loop) Command: {'cmd': ['/home/adcspi/740_ADS/ADS/env/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/ros_ads_loop', 'build', '--build-base', '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/build', 'install', '--record', '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/adcspi/740_ADS/ADS/ros_ads_loop', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'adcspi', 'SSH_CLIENT': '192.168.0.113 59328 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/adcspi', 'OLDPWD': '/home/adcspi/740_ADS/ADS/install', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'PS1': '(env) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'ROS_DISTRO': 'humble', 'LOGNAME': 'adcspi', '_': '/home/adcspi/740_ADS/ADS/env/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/adcspi/740_ADS/ADS/env/bin:/home/adcspi/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'C.UTF-8', 'VIRTUAL_ENV_PROMPT': '(env)', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VIRTUAL_ENV': '/home/adcspi/740_ADS/ADS/env', 'PWD': '/home/adcspi/740_ADS/ADS/build/ros_ads_loop', 'SSH_CONNECTION': '192.168.0.113 59328 192.168.0.241 22', 'PYTHONPATH': '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/prefix_override:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[3.947517] (-) TimerEvent: {}
+[4.002197] (my-test-package) CommandEnded: {'returncode': 0}
+[4.047810] (-) TimerEvent: {}
+[4.058455] (my-test-package) JobEnded: {'identifier': 'my-test-package', 'rc': 0}
+[4.148052] (-) TimerEvent: {}
+[4.248712] (-) TimerEvent: {}
+[4.349588] (-) TimerEvent: {}
+[4.450338] (-) TimerEvent: {}
+[4.551042] (-) TimerEvent: {}
+[4.651770] (-) TimerEvent: {}
+[4.752553] (-) TimerEvent: {}
+[4.853396] (-) TimerEvent: {}
+[4.880586] (ros_ads_loop) StdoutLine: {'line': b'running egg_info\n'}
+[4.884064] (ros_ads_loop) StdoutLine: {'line': b'creating ../build/ros_ads_loop/ros_ads_loop.egg-info\n'}
+[4.884772] (ros_ads_loop) StdoutLine: {'line': b'writing ../build/ros_ads_loop/ros_ads_loop.egg-info/PKG-INFO\n'}
+[4.886064] (ros_ads_loop) StdoutLine: {'line': b'writing dependency_links to ../build/ros_ads_loop/ros_ads_loop.egg-info/dependency_links.txt\n'}
+[4.886712] (ros_ads_loop) StdoutLine: {'line': b'writing entry points to ../build/ros_ads_loop/ros_ads_loop.egg-info/entry_points.txt\n'}
+[4.887385] (ros_ads_loop) StdoutLine: {'line': b'writing requirements to ../build/ros_ads_loop/ros_ads_loop.egg-info/requires.txt\n'}
+[4.888001] (ros_ads_loop) StdoutLine: {'line': b'writing top-level names to ../build/ros_ads_loop/ros_ads_loop.egg-info/top_level.txt\n'}
+[4.888582] (ros_ads_loop) StdoutLine: {'line': b"writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'\n"}
+[4.896600] (ros_ads_loop) StdoutLine: {'line': b"reading manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'\n"}
+[4.900761] (ros_ads_loop) StdoutLine: {'line': b"writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'\n"}
+[4.901671] (ros_ads_loop) StdoutLine: {'line': b'running build\n'}
+[4.902187] (ros_ads_loop) StdoutLine: {'line': b'running build_py\n'}
+[4.903324] (ros_ads_loop) StdoutLine: {'line': b'creating /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build\n'}
+[4.904094] (ros_ads_loop) StdoutLine: {'line': b'creating /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib\n'}
+[4.904760] (ros_ads_loop) StdoutLine: {'line': b'creating /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.905334] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/gps_test.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.906164] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/correctSensor_v6.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.907673] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/icm20948_lib.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.909379] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/models.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.910743] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/rtc.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.912115] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/TRIAD_C.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.913497] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/ADS_ROS_CLASS.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.915375] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/EKFQ.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.916797] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/sun_vect.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.918145] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/Kalman3D.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.919461] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/pni_rm3100.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.922572] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/eig_helper.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.923976] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/test_arduino_com.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.925412] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/__init__.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.926246] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/ADS_class.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.928170] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/AD7994.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.929477] (ros_ads_loop) StdoutLine: {'line': b'copying ros_ads_loop/QUEST.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop\n'}
+[4.932094] (ros_ads_loop) StdoutLine: {'line': b'running install\n'}
+[4.933556] (ros_ads_loop) StdoutLine: {'line': b'running install_lib\n'}
+[4.937071] (ros_ads_loop) StdoutLine: {'line': b'creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.937752] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/gps_test.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.938587] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/correctSensor_v6.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.939472] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/icm20948_lib.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.940392] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/models.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.941284] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/rtc.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.942254] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/TRIAD_C.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.943124] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/ADS_ROS_CLASS.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.944092] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/EKFQ.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.944982] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/sun_vect.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.945781] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/Kalman3D.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.946647] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/pni_rm3100.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.947866] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/eig_helper.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.948733] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/test_arduino_com.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.949622] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/__init__.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.950481] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/ADS_class.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.951473] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/AD7994.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.952319] (ros_ads_loop) StdoutLine: {'line': b'copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/QUEST.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop\n'}
+[4.953540] (-) TimerEvent: {}
+[4.955737] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/gps_test.py to gps_test.cpython-310.pyc\n'}
+[4.958036] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/correctSensor_v6.py to correctSensor_v6.cpython-310.pyc\n'}
+[4.960074] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/icm20948_lib.py to icm20948_lib.cpython-310.pyc\n'}
+[4.969117] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/models.py to models.cpython-310.pyc\n'}
+[4.972064] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/rtc.py to rtc.cpython-310.pyc\n'}
+[4.974091] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/TRIAD_C.py to TRIAD_C.cpython-310.pyc\n'}
+[4.976727] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/ADS_ROS_CLASS.py to ADS_ROS_CLASS.cpython-310.pyc\n'}
+[4.986279] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/EKFQ.py to EKFQ.cpython-310.pyc\n'}
+[4.988976] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/sun_vect.py to sun_vect.cpython-310.pyc\n'}
+[4.991273] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/Kalman3D.py to Kalman3D.cpython-310.pyc\n'}
+[4.994496] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/pni_rm3100.py to pni_rm3100.cpython-310.pyc\n'}
+[5.008680] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/eig_helper.py to eig_helper.cpython-310.pyc\n'}
+[5.012722] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/test_arduino_com.py to test_arduino_com.cpython-310.pyc\n'}
+[5.014776] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/__init__.py to __init__.cpython-310.pyc\n'}
+[5.016129] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/ADS_class.py to ADS_class.cpython-310.pyc\n'}
+[5.025817] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/AD7994.py to AD7994.cpython-310.pyc\n'}
+[5.028281] (ros_ads_loop) StdoutLine: {'line': b'byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/QUEST.py to QUEST.cpython-310.pyc\n'}
+[5.031773] (ros_ads_loop) StdoutLine: {'line': b'running install_data\n'}
+[5.032514] (ros_ads_loop) StdoutLine: {'line': b'creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index\n'}
+[5.033193] (ros_ads_loop) StdoutLine: {'line': b'creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index/resource_index\n'}
+[5.033706] (ros_ads_loop) StdoutLine: {'line': b'creating /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index/resource_index/packages\n'}
+[5.034434] (ros_ads_loop) StdoutLine: {'line': b'copying resource/ros_ads_loop -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ament_index/resource_index/packages\n'}
+[5.035020] (ros_ads_loop) StdoutLine: {'line': b'copying package.xml -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/share/ros_ads_loop\n'}
+[5.035459] (ros_ads_loop) StdoutLine: {'line': b'running install_egg_info\n'}
+[5.042146] (ros_ads_loop) StdoutLine: {'line': b'Copying ../build/ros_ads_loop/ros_ads_loop.egg-info to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info\n'}
+[5.048350] (ros_ads_loop) StdoutLine: {'line': b'running install_scripts\n'}
+[5.053744] (-) TimerEvent: {}
+[5.130615] (ros_ads_loop) StdoutLine: {'line': b'Installing ads_suite script to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/ros_ads_loop\n'}
+[5.133752] (ros_ads_loop) StdoutLine: {'line': b"writing list of installed files to '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log'\n"}
+[5.154064] (-) TimerEvent: {}
+[5.255214] (-) TimerEvent: {}
+[5.258655] (ros_ads_loop) CommandEnded: {'returncode': 0}
+[5.289170] (ros_ads_loop) JobEnded: {'identifier': 'ros_ads_loop', 'rc': 0}
+[5.292293] (-) EventReactorShutdown: {}

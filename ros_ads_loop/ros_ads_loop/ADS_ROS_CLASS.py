@@ -31,11 +31,14 @@ from geometry_msgs.msg import Quaternion
 from geometry_msgs.msg import TransformStamped
 import tf2_ros
 
+from std_msgs.msg import Float64MultiArray
+
 class ADS_Suite(Node):
     def __init__(self):
         super().__init__('ads_suite')
 
         self.publisher_ = self.create_publisher(Quaternion, 'dynamic_quaternion', 10)
+        # self.publisherm = self.create_publisher(Float64MultiArray, 'mag_vect', 10)
         self.timer = self.create_timer(1.0 / 37.0, self.kalman_estimation_loop)
         
         #I2C addresses 
@@ -44,7 +47,7 @@ class ADS_Suite(Node):
         self.tri2_addr = 0x24
         self.imu_addr = 0x69
 
-        self.ADS_Header = ['Time', 'MagX', 'MagY', 'MagZ', 'GyroX', 'GyroY', 'GyroZ', 'Tri11', 'Tri12', 'Tri13',
+        self.ADS_Header = ['Time', 'MagX', 'MagY', 'MagZ', 'GyroX', 'GyroY', 'GyroZ', 'AccelX', 'AccelY', 'AccelZ', 'Tri11', 'Tri12', 'Tri13',
                     'Tri21', 'Tri22', 'Tri23', 'Lat', 'Lon', 'Alt', 'SunVect', 'MagVect', 'MagRef', 'SunRef', 
                     'Roll', 'Pitch', 'Yaw', 'static_q', 'dynamic_q']
 
@@ -56,15 +59,19 @@ class ADS_Suite(Node):
         self.gyroY = 0
         self.gyroZ = 0
 
+        self.AccelX = 0
+        self.AccelY = 0
+        self.AccelZ = 0
+
         self.magX = 0
         self.magY = 0
         self.magZ = 0
 
 
         #Naming Pattern tri{triclops # (1 or 2)}{photodiode # {1,2,3}}
-        self.tri1 = 0
-        self.tri2 = 0
-        self.tri3 = 0
+        self.tri11 = 0
+        self.tri12 = 0
+        self.tri13 = 0
 
         self.tri21 = 0
         self.tri22 = 0
@@ -181,9 +188,9 @@ class ADS_Suite(Node):
         data = self.triclops.get_data() 
         
         byte_convert = [point * self.sun_ref/self.MaxCounts for point in data]
-        self.tri1 = byte_convert[0]
-        self.tri2 = byte_convert[1]
-        self.tri3 = byte_convert[2]
+        self.tri11 = byte_convert[0]
+        self.tri12 = byte_convert[1]
+        self.tri13 = byte_convert[2]
         
 
         data2 = self.triclops2.get_data()
@@ -214,9 +221,10 @@ class ADS_Suite(Node):
         magZ = readings[2]
 
         # MC10 Orientation mag -- Ignore
-        self.magX = magY
-        self.magY = magX
-        self.magZ = magZ
+        self.magX = magX
+        self.magY = -magY
+        self.magZ = -magZ
+        # print(f"mgz: {magZ}")
 
         # UNCOMMENT FOR CALIBRATED VERSION
         # mags = correctSensor_v6(self.mag_params, magX, magY, magZ)
@@ -230,6 +238,9 @@ class ADS_Suite(Node):
 
         self.mag_vect = np.array([magY, magX, -magZ])
         self.mag_vect = self.mag_vect / np.linalg.norm(self.mag_vect)
+        # msg = Float64MultiArray()
+        # msg.data = self.mag_vect
+        # self.publisherm.publish(msg)
 
         # magXb = int(self.magX*100)
         # magXb = magXb.to_bytes(4, byteorder='big', signed=True)
@@ -243,7 +254,7 @@ class ADS_Suite(Node):
 
     def getGyroReading(self):
         #data = self.imu.read_bytes(ICM20948_ACCEL_XOUT_H + 6, 12) #Return the raw gyro readings, each is a raw 2 bytes
-        ax, ay, ag, gx, gy, gz = self.imu_gyro.read_accelerometer_gyro_data()
+        ax, ay, az, gx, gy, gz = self.imu_gyro.read_accelerometer_gyro_data()
         
         # UNCOMMMENT FOR CALIBRATED VERSION
         # gx -= self.gyro_dc[0]
@@ -257,6 +268,9 @@ class ADS_Suite(Node):
         self.gyroX = gx
         self.gyroY = gy
         self.gyroZ = gz
+        self.AccelX = ax
+        self.AccelY = -ay
+        self.AccelZ = -az
 
         # Gyro to bytes
         # gyroXe = int(gx*100)
@@ -265,7 +279,7 @@ class ADS_Suite(Node):
         # gyroYe = gyroYe.to_bytes(4, byteorder='big', signed=True)
         # gyroZe = int(gz*100)
         # gyroZe = gyroZe.to_bytes(4, byteorder='big', signed=True)
-        # bts = gyroXe + gyroYe + gyroZe
+        # bts = gyroXe + gyroYe + gyroZ
 
         return gx, gy, gz
 
@@ -284,23 +298,29 @@ class ADS_Suite(Node):
         self.altitude = alt
         self.gps_time = time
 
-    def static_estimation(self, inside = False):
+        
+
+    def static_estimation(self, inside = True):
         #Compute the current sun vector based on the triclops readings
         try:
             vect = compute_vect(self.tri11, self.tri12, self.tri13, self.tri21, self.tri22, self.tri23)
-        except:
-            line = "Failed to compute Sun Vector\n"
+        except Exception as e:
+            line = f"Failed to compute Sun Vector {e}\n"
             with open(self.filelog, 'a') as file:
                 file.write(line)
         
         if not math.isnan(vect[0]):
-            self.sun_vect = vect
+            self.sun_vect = vect.flatten()
+        else:
+            line = f"Nan Vect\n"
+            with open(self.filelog, 'a') as file:
+                file.write(line) 
 
         #Compute the magnetic field and sun models
         if inside:
-            s = np.array([-0.85, -0.172, 0.4912])
+            s = np.array([0.09944678, 0.20356448, 0.97399786])
             s = s / np.linalg.norm(s)
-            m = np.array([-0.1757, 0.667, -0.724])
+            m = np.array([0.20951717,  0.19442999, -0.95827947])
             m = m / np.linalg.norm(m)
             self.sun_refv = s
             self.mag_ref = m
@@ -314,7 +334,7 @@ class ADS_Suite(Node):
 
         #Run the QUEST static estimation algorithm
         try:
-            flat_sun_vect = self.sun_vect.flatten()
+            flat_sun_vect = self.sun_vect
             body_vs = np.vstack((flat_sun_vect, self.mag_vect))
             ref_vs = np.vstack((self.sun_refv, self.mag_ref))
             weights = np.vstack((10,2))
@@ -421,8 +441,8 @@ class ADS_Suite(Node):
                 writer.writerow(self.ADS_Header)
 
         self.time = time.time()
-        data = [self.time, self.magX, self.magY, self.magZ, self.gyroX, self.gyroY, self.gyroZ, self.tri1, self.tri2,
-                self.tri3, self.tri21, self.tri22, self.tri23, self.latitude, self.longitude, self.altitude, self.sun_vect,
+        data = [self.time, self.magX, self.magY, self.magZ, self.gyroX, self.gyroY, self.gyroZ, self.AccelX, self.AccelY, self.AccelZ, self.tri11, self.tri12,
+                self.tri13, self.tri21, self.tri22, self.tri23, self.latitude, self.longitude, self.altitude, self.sun_vect,
                 self.mag_vect, self.mag_ref, self.sun_refv, self.roll,
                 self.pitch, self.yaw, self.static_q.flatten(), self.dynamic_q]
 

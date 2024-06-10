@@ -1,0 +1,15 @@
+[2.846s] Invoking command in '/home/adcspi/740_ADS/ADS/env/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source': PYTHONPATH=/home/adcspi/740_ADS/ADS/build/my-test-package/prefix_override:/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(env) /home/adcspi/740_ADS/ADS/env/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../../../../build/my-test-package build --build-base /home/adcspi/740_ADS/ADS/build/my-test-package/build install --record /home/adcspi/740_ADS/ADS/build/my-test-package/install.log --single-version-externally-managed
+[4.047s] running egg_info
+[4.051s] writing ../../../../../../../../build/my-test-package/my_test_package.egg-info/PKG-INFO
+[4.053s] writing dependency_links to ../../../../../../../../build/my-test-package/my_test_package.egg-info/dependency_links.txt
+[4.056s] writing top-level names to ../../../../../../../../build/my-test-package/my_test_package.egg-info/top_level.txt
+[4.058s] reading manifest file '../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'
+[4.063s] writing manifest file '../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'
+[4.064s] running build
+[4.066s] running install
+[4.068s] running install_egg_info
+[4.081s] removing '/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages/my_test_package-1.0-py3.10.egg-info' (and everything under it)
+[4.083s] Copying ../../../../../../../../build/my-test-package/my_test_package.egg-info to /home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages/my_test_package-1.0-py3.10.egg-info
+[4.090s] running install_scripts
+[4.202s] writing list of installed files to '/home/adcspi/740_ADS/ADS/build/my-test-package/install.log'
+[4.398s] Invoked command in '/home/adcspi/740_ADS/ADS/env/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source' returned '0': PYTHONPATH=/home/adcspi/740_ADS/ADS/build/my-test-package/prefix_override:/home/adcspi/740_ADS/ADS/install/my-test-package/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(env) /home/adcspi/740_ADS/ADS/env/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../../../../build/my-test-package build --build-base /home/adcspi/740_ADS/ADS/build/my-test-package/build install --record /home/adcspi/740_ADS/ADS/build/my-test-package/install.log --single-version-externally-managed

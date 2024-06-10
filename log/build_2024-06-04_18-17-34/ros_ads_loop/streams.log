@@ -1,0 +1,24 @@
+[4.077s] Invoking command in '/home/adcspi/740_ADS/ADS/ros_ads_loop': PYTHONPATH=/home/adcspi/740_ADS/ADS/build/ros_ads_loop/prefix_override:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(env) /home/adcspi/740_ADS/ADS/env/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/ros_ads_loop build --build-base /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build install --record /home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log --single-version-externally-managed install_data
+[5.129s] running egg_info
+[5.132s] writing ../build/ros_ads_loop/ros_ads_loop.egg-info/PKG-INFO
+[5.134s] writing dependency_links to ../build/ros_ads_loop/ros_ads_loop.egg-info/dependency_links.txt
+[5.135s] writing entry points to ../build/ros_ads_loop/ros_ads_loop.egg-info/entry_points.txt
+[5.136s] writing requirements to ../build/ros_ads_loop/ros_ads_loop.egg-info/requires.txt
+[5.139s] writing top-level names to ../build/ros_ads_loop/ros_ads_loop.egg-info/top_level.txt
+[5.147s] reading manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+[5.153s] writing manifest file '../build/ros_ads_loop/ros_ads_loop.egg-info/SOURCES.txt'
+[5.154s] running build
+[5.154s] running build_py
+[5.157s] copying ros_ads_loop/ADS_ROS_CLASS.py -> /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop
+[5.162s] running install
+[5.164s] running install_lib
+[5.169s] copying /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build/lib/ros_ads_loop/ADS_ROS_CLASS.py -> /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop
+[5.176s] byte-compiling /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/ADS_ROS_CLASS.py to ADS_ROS_CLASS.cpython-310.pyc
+[5.190s] running install_data
+[5.191s] running install_egg_info
+[5.199s] removing '/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info' (and everything under it)
+[5.201s] Copying ../build/ros_ads_loop/ros_ads_loop.egg-info to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop-0.0.0-py3.10.egg-info
+[5.209s] running install_scripts
+[5.294s] Installing ads_suite script to /home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/ros_ads_loop
+[5.297s] writing list of installed files to '/home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log'
+[5.435s] Invoked command in '/home/adcspi/740_ADS/ADS/ros_ads_loop' returned '0': PYTHONPATH=/home/adcspi/740_ADS/ADS/build/ros_ads_loop/prefix_override:/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(env) /home/adcspi/740_ADS/ADS/env/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/ros_ads_loop build --build-base /home/adcspi/740_ADS/ADS/build/ros_ads_loop/build install --record /home/adcspi/740_ADS/ADS/build/ros_ads_loop/install.log --single-version-externally-managed install_data

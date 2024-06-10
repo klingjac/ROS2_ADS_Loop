@@ -1,0 +1,5 @@
+  File "/home/adcspi/740_ADS/ADS/install/ros_ads_loop/lib/python3.10/site-packages/ros_ads_loop/arm_control.py", line 1
+    class Arm_Controler()
+                         ^
+SyntaxError: expected ':'
+
