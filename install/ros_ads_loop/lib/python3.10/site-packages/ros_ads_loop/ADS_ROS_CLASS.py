@@ -318,9 +318,9 @@ class ADS_Suite(Node):
 
         #Compute the magnetic field and sun models
         if inside:
-            s = np.array([0.09944678, 0.20356448, 0.97399786])
+            s = np.array([-0.02994249, -0.13829843,  0.98993787])
             s = s / np.linalg.norm(s)
-            m = np.array([0.20951717,  0.19442999, -0.95827947])
+            m = np.array([-0.57202423,  0.17286703, -0.80181374])
             m = m / np.linalg.norm(m)
             self.sun_refv = s
             self.mag_ref = m
@@ -345,12 +345,13 @@ class ADS_Suite(Node):
                 file.write(line)
 
     def kalman_estimation_loop(self):
-        try:
-            self.get_lat_lon_alt(1,1,1)
-        except:
-            line = "Failed to get GPS reading\n"
-            with open(self.filelog, 'a') as file:
-                file.write(line)
+        # try:
+        #     self.get_lat_lon_alt(1,1,1)
+        # except:
+
+            # line = "Failed to get GPS reading\n"
+            # with open(self.filelog, 'a') as file:
+            #     file.write(line)
             # print("Failed to get GPS reading")
         
         try:

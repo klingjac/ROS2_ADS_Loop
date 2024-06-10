@@ -1,8 +1,12 @@
 Metadata-Version: 2.1
-Name: ros_ads_loop
+Name: ros-ads-loop
 Version: 0.0.0
 Summary: TODO: Package description
+Home-page: UNKNOWN
 Maintainer: adcspi
 Maintainer-email: klingjac@umich.edu
 License: TODO: License declaration
-Requires-Dist: setuptools
+Platform: UNKNOWN
+
+UNKNOWN
+
