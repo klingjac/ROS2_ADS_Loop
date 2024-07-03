@@ -18,7 +18,7 @@ from .pni_rm3100 import PniRm3100
 from .sun_vect import compute_vect
 from .QUEST import quest
 from .models import get_sun_and_magnetic_field_in_ecef
-from .EKFQ import QuaternionKalmanFilter
+from .EKFQ_non_bias import QuaternionKalmanFilter
 from .rtc import gps_utc2utc
 
 from scipy.spatial.transform import Rotation as R
@@ -40,6 +40,7 @@ class ADS_Suite(Node):
         self.publisher_ = self.create_publisher(Quaternion, 'dynamic_quaternion', 10)
         # self.publisherm = self.create_publisher(Float64MultiArray, 'mag_vect', 10)
         self.timer = self.create_timer(1.0 / 37.0, self.kalman_estimation_loop)
+        self.time_first = time.time()
         
         #I2C addresses 
         self.mag_addr = 0x21
@@ -126,9 +127,23 @@ class ADS_Suite(Node):
         self.magnetometer.write_ccr()
         self.magnetometer.write_config()
 
+        # self.magnetometer2 = PniRm3100()
+        # self.magnetometer2.assign_device_addr(0x22)
+
+        # self.magnetometer2.print_status_statements = False
+        # self.magnetometer2.print_debug_statements = False
+
+        # self.magnetometer2.assign_xyz_ccr(x_ccr_in=self.magnetometer.CcrRegister.CCR_DEFAULT, 
+        #                                 y_ccr_in=self.magnetometer.CcrRegister.CCR_DEFAULT, 
+        #                                 z_ccr_in=self.magnetometer.CcrRegister.CCR_DEFAULT)
+
+        # self.magnetometer2.assign_tmrc(self.magnetometer.TmrcRegister.TMRC_37HZ)
+        # self.magnetometer2.write_ccr()
+        # self.magnetometer2.write_config()
+
         #Initialize ADCs for the two Triclops Sensors
         self.triclops = AD7994(self.tri1_addr)
-        self.triclops2 = AD7994(self.tri2_addr)
+        #self.triclops2 = AD7994(self.tri2_addr)
 
         #Conversion #'s for Triclops Values
         self.sun_ref = 3
@@ -193,7 +208,7 @@ class ADS_Suite(Node):
         self.tri13 = byte_convert[2]
         
 
-        data2 = self.triclops2.get_data()
+        #data2 = self.triclops2.get_data()
 
         # This exists for spitting out the bytes for the radio
         # byte_string = b''.join([i.to_bytes(2, byteorder='big', signed=False) for i in data])
@@ -204,21 +219,25 @@ class ADS_Suite(Node):
         # bs = first_three_bytes + first_three_bytes2
 
         
-        byte_convert = [point * self.sun_ref/self.MaxCounts for point in data2]
+        #byte_convert = [point * self.sun_ref/self.MaxCounts for point in data2]
     
-        self.tri21 = byte_convert[0]
-        self.tri22 = byte_convert[1]
-        self.tri23 = byte_convert[2]
+        #self.tri21 = byte_convert[0]
+        #self.tri22 = byte_convert[1]
+        #self.tri23 = byte_convert[2]
         
         return byte_convert
 
     def getMagReading(self):
         readings = self.magnetometer.read_meas() 
-
+        
         # Relative magnetometer readings
         magX = readings[0]
         magY = readings[1]
         magZ = readings[2]
+
+        
+
+        
 
         # MC10 Orientation mag -- Ignore
         self.magX = magX
@@ -236,7 +255,7 @@ class ADS_Suite(Node):
         # magYb = readings[4]
         # magZb = readings[5]
 
-        self.mag_vect = np.array([magY, magX, -magZ])
+        self.mag_vect = np.array([self.magX, self.magY, self.magZ])
         self.mag_vect = self.mag_vect / np.linalg.norm(self.mag_vect)
         # msg = Float64MultiArray()
         # msg.data = self.mag_vect
@@ -303,7 +322,7 @@ class ADS_Suite(Node):
     def static_estimation(self, inside = True):
         #Compute the current sun vector based on the triclops readings
         try:
-            vect = compute_vect(self.tri11, self.tri12, self.tri13, self.tri21, self.tri22, self.tri23)
+            vect = compute_vect(self.tri11, self.tri12, self.tri13)
         except Exception as e:
             line = f"Failed to compute Sun Vector {e}\n"
             with open(self.filelog, 'a') as file:
@@ -318,9 +337,9 @@ class ADS_Suite(Node):
 
         #Compute the magnetic field and sun models
         if inside:
-            s = np.array([-0.02994249, -0.13829843,  0.98993787])
+            s = np.array([ 0.10479631, -0.47937926, 0.87132844])
             s = s / np.linalg.norm(s)
-            m = np.array([-0.57202423,  0.17286703, -0.80181374])
+            m = np.array([0.07432741, 0.26788839, -0.9605786])
             m = m / np.linalg.norm(m)
             self.sun_refv = s
             self.mag_ref = m
@@ -337,7 +356,7 @@ class ADS_Suite(Node):
             flat_sun_vect = self.sun_vect
             body_vs = np.vstack((flat_sun_vect, self.mag_vect))
             ref_vs = np.vstack((self.sun_refv, self.mag_ref))
-            weights = np.vstack((10,2))
+            weights = np.vstack((1,2))
             self.static_q = quest(body_vs, weights, ref_vs)
         except Exception as e:
             line = "Failed to compute static estimates\n"
@@ -398,12 +417,15 @@ class ADS_Suite(Node):
         gyro_vect = np.array([self.gyroX, self.gyroY, self.gyroZ])
         try:
             #Kalman predict and update steps
+            temp_time = time.time()
+            elapsed_time = temp_time - self.time_first
+            self.time_first = temp_time
             self.ekf.predict(gyro_vect)
-            self.ekf.update(self.static_q.flatten())
+            self.ekf.update(self.static_q.flatten(), gyro_vect)
 
             self.dynamic_q = self.ekf.state
-        except:
-            line = "Failed Kalman Loop\n"
+        except Exception as e:
+            line = f"Failed Kalman Loop {e}\n"
             with open(self.filelog, 'a') as file:
                 file.write(line)
         
@@ -459,7 +481,10 @@ class ADS_Suite(Node):
         dynamic_quaternion.x = float(self.dynamic_q[1])
         dynamic_quaternion.y = float(self.dynamic_q[2])
         dynamic_quaternion.z = float(self.dynamic_q[3])
+        #print(self.dynamic_q)
+        #print(f"Gyro Bias: {self.dynamic_q[4]}, {self.dynamic_q[5]}, {self.dynamic_q[6]} Raw Gyro Vals: {self.gyroX}, {self.gyroY}, {self.gyroZ}")
         self.publisher_.publish(dynamic_quaternion)
+        
 
 def main(args=None):
     rclpy.init(args=args)

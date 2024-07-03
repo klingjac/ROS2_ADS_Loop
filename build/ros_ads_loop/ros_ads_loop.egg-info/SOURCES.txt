@@ -14,6 +14,7 @@ ros_ads_loop/AD7994.py
 ros_ads_loop/ADS_ROS_CLASS.py
 ros_ads_loop/ADS_class.py
 ros_ads_loop/EKFQ.py
+ros_ads_loop/EKFQ_non_bias.py
 ros_ads_loop/Kalman3D.py
 ros_ads_loop/QUEST.py
 ros_ads_loop/TRIAD_C.py
