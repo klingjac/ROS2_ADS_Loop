@@ -33,11 +33,16 @@ import tf2_ros
 
 from std_msgs.msg import Float64MultiArray
 
+from my_custom_msgs.msg import GravityVect
+from my_custom_msgs.msg import SunVect
+
 class ADS_Suite(Node):
     def __init__(self):
         super().__init__('ads_suite')
 
         self.publisher_ = self.create_publisher(Quaternion, 'dynamic_quaternion', 10)
+        self.publisher_g = self.create_publisher(GravityVect, 'gravity_vector', 10)
+        self.publisher_s = self.create_publisher(SunVect, 'sun_vect', 10)
         # self.publisherm = self.create_publisher(Float64MultiArray, 'mag_vect', 10)
         self.timer = self.create_timer(1.0 / 37.0, self.kalman_estimation_loop)
         self.time_first = time.time()
@@ -257,6 +262,8 @@ class ADS_Suite(Node):
 
         self.mag_vect = np.array([self.magX, self.magY, self.magZ])
         self.mag_vect = self.mag_vect / np.linalg.norm(self.mag_vect)
+        print(f"Mag_vect: {self.mag_vect}")
+        print(f"Sun_vect: {self.sun_vect}")
         # msg = Float64MultiArray()
         # msg.data = self.mag_vect
         # self.publisherm.publish(msg)
@@ -337,9 +344,9 @@ class ADS_Suite(Node):
 
         #Compute the magnetic field and sun models
         if inside:
-            s = np.array([ 0.10479631, -0.47937926, 0.87132844])
+            s = np.array([-0.05883678,  0.06793886,  0.99595308])
             s = s / np.linalg.norm(s)
-            m = np.array([0.07432741, 0.26788839, -0.9605786])
+            m = np.array([ 0.19914344, -0.25430524, -0.94639882])
             m = m / np.linalg.norm(m)
             self.sun_refv = s
             self.mag_ref = m
@@ -421,7 +428,7 @@ class ADS_Suite(Node):
             elapsed_time = temp_time - self.time_first
             self.time_first = temp_time
             self.ekf.predict(gyro_vect)
-            self.ekf.update(self.static_q.flatten(), gyro_vect)
+            self.ekf.update(self.static_q.flatten())
 
             self.dynamic_q = self.ekf.state
         except Exception as e:
@@ -484,6 +491,18 @@ class ADS_Suite(Node):
         #print(self.dynamic_q)
         #print(f"Gyro Bias: {self.dynamic_q[4]}, {self.dynamic_q[5]}, {self.dynamic_q[6]} Raw Gyro Vals: {self.gyroX}, {self.gyroY}, {self.gyroZ}")
         self.publisher_.publish(dynamic_quaternion)
+
+        sunvect = SunVect()
+        sunvect.x = self.sun_vect[0]
+        sunvect.y = self.sun_vect[1]
+        sunvect.z = self.sun_vect[2]
+        self.publisher_s.publish(sunvect)
+
+        gvect = GravityVect()
+        gvect.x = self.AccelX
+        gvect.y = self.AccelY
+        gvect.z = self.AccelZ
+        self.publisher_g.publish(gvect)
         
 
 def main(args=None):
