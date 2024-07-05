@@ -9,10 +9,16 @@
 
   <depend>rclpy</depend>
 
+  <build_depend>my_custom_msgs</build_depend>
+
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>
   <test_depend>python3-pytest</test_depend>
+
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <exec_depend>my_custom_msgs</exec_depend>
 
   <export>
     <build_type>ament_python</build_type>

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/home/adcspi/740_ADS/ADS/env/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'ros-ads-loop==0.0.0','console_scripts','ads_suite'
 import re
 import sys
