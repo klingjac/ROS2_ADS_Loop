@@ -337,7 +337,7 @@ class ADS_Suite(Node):
             flat_sun_vect = self.sun_vect
             body_vs = np.vstack((flat_sun_vect, self.mag_vect))
             ref_vs = np.vstack((self.sun_refv, self.mag_ref))
-            weights = np.vstack((10,2))
+            weights = np.vstack((1,5))
             self.static_q = quest(body_vs, weights, ref_vs)
         except Exception as e:
             line = "Failed to compute static estimates\n"
