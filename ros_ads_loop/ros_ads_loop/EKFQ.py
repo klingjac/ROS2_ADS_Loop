@@ -63,8 +63,8 @@ class QuaternionKalmanFilter:
         
         omega = 2 * np.array([
             -q[1] * q_dot[0] - q[2] * q_dot[1] - q[3] * q_dot[2] + q[0] * q_dot[3],
-            q[0] * q_dot[0] - q[3] * q_dot[1] + q[2] * q_dot[2] + q[1] * q_dot[3],
-            q[3] * q_dot[0] + q[0] * q_dot[1] - q[1] * q_dot[2] + q[2] * q_dot[3],
-            -q[2] * q_dot[0] + q[1] * q_dot[1] + q[0] * q_dot[2] + q[3] * q_dot[3]
+            q[0] * q_dot[0] + q[1] * q_dot[3] + q[2] * q_dot[2] - q[3] * q_dot[1],
+            q[0] * q_dot[1] - q[1] * q_dot[2] + q[2] * q_dot[3] + q[3] * q_dot[0],
+            q[0] * q_dot[2] + q[1] * q_dot[1] - q[2] * q_dot[0] + q[3] * q_dot[3]
         ])
         return omega[1:]
