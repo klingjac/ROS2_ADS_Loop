@@ -4,8 +4,8 @@ class QuaternionKalmanFilter:
 
     def __init__(self):
         self.dt = 1/37  # Time step
-        self.Q = np.eye(7) * 0.1  # Process noise covariance
-        self.Q[4:, 4:] = np.eye(3) * 0.1  # Smaller noise for biases
+        self.Q = np.eye(7) * 1  # Process noise covariance
+        self.Q[4:, 4:] = np.eye(3) * 1  # Smaller noise for biases
         self.R = np.eye(7) * 0.1  # Measurement noise covariance
         self.state = np.array([1, 0, 0, 0, 0.3, 0.2, 0.1], dtype=np.float64)  # Initial quaternion (w, x, y, z) and biases
         self.P = np.eye(7)  # Initial state covariance

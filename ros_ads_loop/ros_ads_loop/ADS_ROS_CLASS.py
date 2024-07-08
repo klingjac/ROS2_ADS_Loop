@@ -18,7 +18,7 @@ from .pni_rm3100 import PniRm3100
 from .sun_vect import compute_vect
 from .QUEST import quest
 from .models import get_sun_and_magnetic_field_in_ecef
-from .EKFQ_non_bias import QuaternionKalmanFilter
+from .EKFQ import QuaternionKalmanFilter
 from .rtc import gps_utc2utc
 
 from scipy.spatial.transform import Rotation as R
@@ -344,9 +344,9 @@ class ADS_Suite(Node):
 
         #Compute the magnetic field and sun models
         if inside:
-            s = np.array([-0.05883678,  0.06793886,  0.99595308])
+            s = np.array([0.03856677, 0.16699902, 0.98520248])
             s = s / np.linalg.norm(s)
-            m = np.array([ 0.19914344, -0.25430524, -0.94639882])
+            m = np.array([0.04348156,  0.6488787,  -0.75964847])
             m = m / np.linalg.norm(m)
             self.sun_refv = s
             self.mag_ref = m
@@ -363,7 +363,7 @@ class ADS_Suite(Node):
             flat_sun_vect = self.sun_vect
             body_vs = np.vstack((flat_sun_vect, self.mag_vect))
             ref_vs = np.vstack((self.sun_refv, self.mag_ref))
-            weights = np.vstack((1,2))
+            weights = np.vstack((1,4))
             self.static_q = quest(body_vs, weights, ref_vs)
         except Exception as e:
             line = "Failed to compute static estimates\n"
@@ -427,8 +427,8 @@ class ADS_Suite(Node):
             temp_time = time.time()
             elapsed_time = temp_time - self.time_first
             self.time_first = temp_time
-            self.ekf.predict(gyro_vect)
-            self.ekf.update(self.static_q.flatten())
+            self.ekf.predict(gyro_vect, elapsed_time)
+            self.ekf.update(self.static_q.flatten(), gyro_vect, elapsed_time)
 
             self.dynamic_q = self.ekf.state
         except Exception as e:
