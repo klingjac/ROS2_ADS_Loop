@@ -1,4 +1,3 @@
 [console_scripts]
 ads_suite = ros_ads_loop.ADS_ROS_CLASS:main
 rviz_publisher = ros_ads_loop.rviz_publisher:main
-
